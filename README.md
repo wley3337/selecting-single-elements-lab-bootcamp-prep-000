@@ -1,4 +1,4 @@
-cu## Selecting Elements Lab
+curriculum-content## Selecting Elements Lab
 
 ### Introduction
 
